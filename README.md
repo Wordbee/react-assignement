@@ -20,6 +20,7 @@ Don't be shy to show off your skills :)
 - Use React (of course).
 - Use Redux to hold your application state.
 - Use functional components and hooks
+- Persist your todos to a fake API using [json-server](https://github.com/typicode/json-server)
 - Use either redux-thunks or redux-sags for side-effects.
 
 Feel free to use any other redux helper libraries if you'd like to.
