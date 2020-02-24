@@ -4,6 +4,8 @@
 
 Build your own version of TodoMVC with React and Redux.
 
+Take a breath! There is no right or wrong implementation. Do your best to complete the project, the interesting and important part is going through the code when you submit your solution and discussing it as peers.
+
 ## Guidelines
 
 Take your time to grasp the mental models of React and Redux.
