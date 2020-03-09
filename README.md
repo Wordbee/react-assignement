@@ -19,7 +19,7 @@ Don't be shy to show off your skills ;)
 Feel free to use any helper libraries if you'd like to.
 
 ## Implicit Requirements
-- Project is expecte to be well structured.
+- Project is expected to be well structured.
 - The code produced is expected to be of high quality.
 - Premature optimization is desired. 
 
