@@ -4,28 +4,24 @@
 
 Build your own version of TodoMVC with React and Redux.
 
-Take a breath! There is no right or wrong implementation. Do your best to complete the project, the interesting and important part is going through the code when you submit your solution and discussing it as peers.
+Don't be shy to show off your skills ;)
 
-## Guidelines
-
-Take your time to grasp the mental models of React and Redux.
-
-Take your time to read and know about idiomatic React and Redux code.
-
-We recommand using [create-react-app](https://create-react-app.dev/) to bootstrap the project.
-
-Don't be shy to show off your skills :)
-
-## Requirements
+## Explicit Requirements
 
 - Use Typescript.
-- Use React (of course).
-- Use Redux to hold your application state.
+- Use React.
+- Use Redux.
 - Use functional components and hooks.
+- Use redux-sags for side-effects.
 - Persist your todos to a fake API using [json-server](https://github.com/typicode/json-server).
-- Use either redux-thunks or redux-sags for side-effects.
+- The application should have enough test coverage.
 
-Feel free to use any other redux helper libraries if you'd like to.
+Feel free to use any helper libraries if you'd like to.
+
+## Implicit Requirements
+- Project is expecte to be well structured.
+- The code produced is expected to be of high quality.
+- Premature optimization is desired. 
 
 ## CSS
 
